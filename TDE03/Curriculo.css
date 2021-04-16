@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(172, 172, 172);
+}
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: rgb(172, 172, 172);
+    border-radius: 200px;
+}
+
+h2 {
+    font: normal 25pt arial;
+}
+
+h3 {
+    font: normal 25pt arial;
+}
+
+p {
+    font: normal 20pt arial;
+}
+
+li {
+    font: normal 20pt arial;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 500%;
+}
+
+.Esquerda {
+    width: 40%;
+    height: 200px;
+    float: left;
+    background-color: rgb(172, 172, 172);
+    color: rgb(0, 0, 0);
+}
+
+.Direita {
+    width: 60%;
+    height: 200px;
+    float: left;
+    background-color:rgb(172, 172, 172);
+
+}
+
+.Unica {
+    clear:both;
+    background-color: rgb(172, 172, 172);
+    height: 200px;
+}
+
+#copy {
+    background-color: teal;
+    border-radius: 200px;
+    width: 180px;
+}

@@ -1,0 +1,141 @@
+body {
+    font-family: sans-serif;
+    margin-bottom: 50px;
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    background-color: rgb(8, 133, 133);
+    height: 50px;
+    padding-top: 10px;
+    margin-top: 0%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    color:  rgb(8, 133, 133);
+    background-color:black;
+  
+}
+
+h2 {
+    color: black;
+    text-align: left;
+    margin-bottom: 0%;
+
+}
+
+h3 {
+
+    color:  black ;
+    margin-bottom: 0%;
+
+}
+
+h4 {
+    margin-top: 0px;
+    color:black;
+}
+
+hr {
+    margin-top: 0px;
+    border: solid 1px;
+    color: black;
+}
+
+
+
+
+.tudo{
+    width: 60%;
+   border: solid 1px black;
+    text-align: center ;  
+    padding: 30px 30px 30px 30px;
+    margin: 0% auto;
+    clear: both;
+    color:  black;
+    background-color:  rgb(8, 133, 133);
+    
+}
+
+.linha {
+    clear: both;
+    color: black;
+  
+
+}
+
+.TituloContato {
+    color:black;
+}
+
+.personal {
+    float: left;
+    color: black;
+    
+}
+
+#foto{
+    width: 30%;
+    float: left;
+}
+
+#imgfoto {
+    width: 150px;
+    height: 200px;
+    border-radius: 100%;
+
+}
+
+#contatos{
+
+    width:70%;
+    float: left;
+    text-align: left;
+    font-size: 20px;
+    vertical-align: middle;
+    color: black;
+
+
+}
+
+#objetivos {
+    text-align: justify;
+    margin: 2%;
+}
+
+#formacao {
+    text-align: justify;
+    margin: 2%;
+
+}
+
+#colunaum {
+
+    float: left;
+    width: 45%;
+    margin-left: 2%;
+    margin-right: 2%;
+    color: black;
+}
+
+#colunadois {
+
+float: left;
+width: 2px;
+height: 500px;
+background-color: black;
+margin-top: 38px;
+color: black;
+
+
+}
+
+#colunatres {
+
+    float: left;
+    width: 45%;
+    margin-right: 2%;
+    margin-left: 2%;
+    color: black;
+
+}
+

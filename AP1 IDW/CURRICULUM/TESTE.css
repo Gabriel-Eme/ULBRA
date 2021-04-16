@@ -1,0 +1,159 @@
+body {
+    font-family: sans-serif;
+    margin-bottom: 50px;
+    background-color:#858181;
+    
+}
+
+h1 {
+   
+    height: 50px;
+    padding-top: 10px;
+    margin-top: 0%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    color:white;
+    background-color:#899206;
+  
+}
+
+h2 {
+    color: #899206;
+    text-align: left;
+    margin-bottom: 0%;
+
+}
+
+h3 {
+
+    color:#899206;
+    margin-bottom: 0%;
+
+}
+
+h4 {
+    margin-top: 0px;
+    color:#899206;
+}
+
+hr {
+    margin-top: 0px;
+    border: solid 1px;
+    color:#899206;
+}
+
+
+
+
+.tudo{
+    width: 60%;
+   border: solid 1px #858181;
+    text-align: center ;  
+    padding: 30px 30px 30px 30px;
+    margin: 0% auto;
+    clear: both;
+    color:#899206;
+    background-color:white;
+    
+}
+
+.linha {
+    clear: both;
+    color:black;
+  
+
+}
+
+.TituloContato {
+    color:#899206;
+}
+
+.personal {
+    float: left;
+    color: black;
+    
+}
+
+.circle {
+
+    
+    height: 10px;
+    width: 10px;
+    background-color:#899206;
+    border-radius: 50px;
+    float: right;
+    margin-left: 10px;
+}
+
+.habilidades {
+
+    float: left;
+}
+
+#foto{
+    width: 30%;
+    float: left;
+}
+
+#imgfoto {
+    width: 150px;
+    height: 200px;
+    border-radius: 100%;
+
+}
+
+#contatos{
+
+    width:70%;
+    float: left;
+    text-align: left;
+    font-size: 20px;
+    vertical-align: middle;
+    color: black;
+
+
+}
+
+#objetivos {
+    text-align: justify;
+    margin: 2%;
+}
+
+#formacao {
+    text-align: justify;
+    margin: 2%;
+
+}
+
+#colunaum {
+
+    float: left;
+    width: 45%;
+    margin-left: 2%;
+    margin-right: 2%;
+    color: black;
+}
+
+#colunadois {
+
+float: left;
+width: 2px;
+height: 550px;
+background-color:#899206;
+margin-top: 38px;
+color: black;
+
+
+}
+
+#colunatres {
+
+    float: left;
+    width: 45%;
+    margin-right: 2%;
+    margin-left: 2%;
+    color: black;
+
+}
+
+

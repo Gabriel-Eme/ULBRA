@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(156, 156, 156);
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 2px solid;
+
+    
+}
+
+
+
+}
+
+h1 {
+    border: 2px dotted;
+    text-transform: uppercase;
+    text-shadow: 2px 4px 2px 4px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 30px 20px 30px;
+    border: 2px solid;
+    text-align: justify;
+    
+}
+
+#detach {
+
+    color: tomato;
+    font-size: large;
+
+}
+
+.colorBlue{
+    color: rgb(25, 107, 139);
+}
